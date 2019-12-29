@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cal" />
         <module name="cal (1)" />
-        <module name="cal (2)" />
         <module name="cal (3)" />
       </profile>
     </annotationProcessing>
