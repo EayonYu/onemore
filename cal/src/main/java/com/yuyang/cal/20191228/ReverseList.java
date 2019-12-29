@@ -8,6 +8,7 @@
 public class ReverseList {
 
     public class ListNode {
+      int temp;
       int val;
       ListNode next;
       ListNode(int x) { val = x; }
